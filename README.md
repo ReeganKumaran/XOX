@@ -1,14 +1,43 @@
-# React + Vite
+🎮 Tic Tac Toe Game - React + Vite
+A simple and interactive Tic Tac Toe (XOX) game built using React and Vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Player vs Player gameplay
 
-Currently, two official plugins are available:
+Score tracking:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  --> ✅ X Wins
+  --> 🟦 O Wins
+  --> 🤝 Draws
 
-## Expanding the ESLint configuration
-![image](https://github.com/user-attachments/assets/17b215b0-e8f7-4a90-ac54-e7fa09900c4d)
+Game reset option
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# XOX" 
+Winning highlight effect
+
+Fully responsive and styled UI
+
+🚀 Getting Started
+Clone the repo:
+  git clone https://github.com/your-username/tic-tac-toe-react.git
+  cd tic-tac-toe-react
+
+Install dependencies:
+  npm install
+
+Run the project:
+  npm run dev
+
+📦 Built With
+  --> React
+  --> Vite
+  --> CSS Modules / Custom Styling
+
+📸 Preview
+
+![image](https://github.com/user-attachments/assets/ec828ea1-7e2e-4cae-9a26-38750897604e)
+
+![image](https://github.com/user-attachments/assets/970f710e-23a9-453d-bb14-9adc7db5dc52)
+
+![image](https://github.com/user-attachments/assets/aca210a7-9bcc-4882-aca4-03199713905c)
+
+
