@@ -19,15 +19,19 @@ Winning highlight effect
 Fully responsive and styled UI
 
 🚀 Getting Started
-Clone the repo:
-  git clone https://github.com/your-username/tic-tac-toe-react.git
-  cd tic-tac-toe-react
 
-Install dependencies:
-  npm install
+Step 1: Clone the repo:
 
-Run the project:
-  npm run dev
+    git clone https://github.com/ReeganKumaran/XOX.git
+    cd tic-tac-toe-react
+
+Step 2: Install dependencies:
+   
+    npm install
+
+Step 3: Run the project:
+
+    npm run dev
 
 📦 Built With
   
