@@ -7,7 +7,9 @@ Player vs Player gameplay
 Score tracking:
 
   --> ✅ X Wins
+  
   --> 🟦 O Wins
+  
   --> 🤝 Draws
 
 Game reset option
@@ -28,8 +30,11 @@ Run the project:
   npm run dev
 
 📦 Built With
+  
   --> React
+  
   --> Vite
+  
   --> CSS Modules / Custom Styling
 
 📸 Preview
